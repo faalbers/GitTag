@@ -7,3 +7,5 @@ git tag -a <tagname> -m "<comment>" // create annotated tag, stored as a git tag
 git tag // to list tags
 git show <tagname> // show detailed info
 git tag -l "v*" // wildcard
+
+test
