@@ -17,4 +17,6 @@ git push origin -d <tagname> // remove a tag from remote
 git tag -d <tagname> <tagname> ... // delete multiple tags
 git push origin -d <tagname> <tagname> ... // remove multiple tags from remote
 
-git checkout -b <branch> <tagname> // create a new branch base of tag
+git checkout -b <branch> <tagname> // create a new branch based of tag
+
+git tag <tagname> <SHA> // select any hash commit and give it a tag
