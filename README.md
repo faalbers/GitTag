@@ -1,3 +1,4 @@
+```
 https://youtu.be/govmXpDGLpo
 
 git checkout <branch>
@@ -20,3 +21,4 @@ git push origin -d <tagname> <tagname> ... // remove multiple tags from remote
 git checkout -b <branch> <tagname> // create a new branch based of tag
 
 git tag <tagname> <SHA> // select any hash commit and give it a tag
+```
